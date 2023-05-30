@@ -50,7 +50,7 @@ components:
             $ref: '#/components/schemas/Pick_User.email-or-name-or-phoneNumbers_'
     securitySchemes: {}
 info:
-    title: tsoa-test
+    title: apiClient
     version: 0.0.0
     contact: {}
 openapi: 3.0.0
